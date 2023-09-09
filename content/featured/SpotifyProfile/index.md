@@ -1,13 +1,11 @@
 ---
-date: '2'
+date: '1'
 title: 'Spotify Profile'
 cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
+github: 'https://github.com/ashwin-clones/spotify_clone'
 external: 'https://spotify-profile.herokuapp.com/'
 tech:
   - React
-  - Styled Components
-  - Express
   - Spotify API
   - Heroku
 ---

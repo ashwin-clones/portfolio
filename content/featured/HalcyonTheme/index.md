@@ -1,15 +1,14 @@
 ---
-date: '1'
-title: 'Halcyon Theme'
-cover: './halcyon.png'
-github: 'https://github.com/bchiang7/halcyon-site'
-external: 'https://halcyon-theme.netlify.com/'
+date: '2'
+title: 'Zoom clone'
+cover: './demo.png'
+github: 'https://github.com/ashwin-clones/zoom_clone'
+external: ''
 tech:
-  - VS Code
-  - Sublime Text
-  - Atom
-  - iTerm2
-  - Hyper
+  - React
+  - Express
+  - Socket.io
+  - Github Pgaes
 ---
 
-A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode), [Package Control](https://packagecontrol.io/packages/Halcyon%20Theme), [Atom Package Manager](https://atom.io/themes/halcyon-syntax), and [npm](https://www.npmjs.com/package/hyper-halcyon-theme).
+A Zoom clone is a versatile, real-time communication platform that emulates the functionalities of Zoom, a popular video conferencing application. This clone offers high-quality video and audio conferencing, screen sharing, and virtual meeting rooms for seamless collaboration.
