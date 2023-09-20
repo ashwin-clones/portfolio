@@ -1,5 +1,5 @@
 ---
-date: '2020-01'
+date: '2020-JAN'
 title: 'Frontend (SE-1)'
 company: 'MyHealthcare'
 location: 'Bengaluru, KA'
